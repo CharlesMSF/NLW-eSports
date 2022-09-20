@@ -12,3 +12,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 miiller2233@gmail.com
 
+https://charlesmsf.github.io/CharlesMSF-NLW-eSports-Explorer/
