@@ -9,11 +9,11 @@ ul {
 }
 
 body {
-  background-image: url(./assets/FD.jpg);
+  background-image: url(./assets/fundo.jpg);
   background-position: top center;
-  background-size: cover; /* Alterada para "cover" para cobrir toda a tela */
+  background-size: cover;
   background-repeat: no-repeat;
-  /* Remova o background-color anterior e adicione o gradiente */
+  
 }
 
 body * {
@@ -78,6 +78,7 @@ section div {
   padding: 32px;
   padding-top: 24px;
   border-radius: 8px;
+  
 }
 
 section h2 {
@@ -97,7 +98,7 @@ section ul {
   margin-top: 24px;
 }
 section ul li {
-  transition: transform 0.3s;
+  transition: transform 0.4s;
 }
 section ul li:hover {
   transform: scale(1.1);
@@ -120,7 +121,7 @@ header div {
 }
 
 main section {  
-    animation: fromBottom 1.1s ease-in-out;
+    animation: fromBottom 1.5s backwards;
 }
 
 main section:nth-child(1) {
