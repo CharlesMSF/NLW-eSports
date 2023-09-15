@@ -9,7 +9,11 @@ ul {
 }
 
 body {
+<<<<<<< HEAD
   background-image: url(./assets/fundo.jpg);
+=======
+  background-image: url(./assets/FD.JPG);
+>>>>>>> 032a9d1c80d32393fdff1e7e8ec6af5b0103f69a
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
