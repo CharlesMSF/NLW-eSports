@@ -9,7 +9,7 @@ ul {
 }
 
 body {
-  background-image: url(./assets/FD.jpg);
+  background-image: url(./assets/FD.JPG);
   background-position: top center;
   background-size: cover; /* Alterada para "cover" para cobrir toda a tela */
   background-repeat: no-repeat;
